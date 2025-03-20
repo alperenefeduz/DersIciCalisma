@@ -245,6 +245,7 @@
             // 
             // CB_Sinif
             // 
+            this.CB_Sinif.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CB_Sinif.FormattingEnabled = true;
             this.CB_Sinif.Location = new System.Drawing.Point(157, 329);
             this.CB_Sinif.Name = "CB_Sinif";
@@ -253,6 +254,7 @@
             // 
             // CB_Sube
             // 
+            this.CB_Sube.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CB_Sube.FormattingEnabled = true;
             this.CB_Sube.Location = new System.Drawing.Point(293, 329);
             this.CB_Sube.Name = "CB_Sube";

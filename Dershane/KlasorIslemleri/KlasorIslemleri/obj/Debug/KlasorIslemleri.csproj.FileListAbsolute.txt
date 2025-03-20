@@ -1,0 +1,10 @@
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\KlasorIslemleri\KlasorIslemleri\bin\Debug\KlasorIslemleri.exe.config
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\KlasorIslemleri\KlasorIslemleri\bin\Debug\KlasorIslemleri.exe
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\KlasorIslemleri\KlasorIslemleri\bin\Debug\KlasorIslemleri.pdb
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\KlasorIslemleri\KlasorIslemleri\obj\Debug\KlasorIslemleri.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\KlasorIslemleri\KlasorIslemleri\obj\Debug\KlasorIslemleri.Form1.resources
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\KlasorIslemleri\KlasorIslemleri\obj\Debug\KlasorIslemleri.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\KlasorIslemleri\KlasorIslemleri\obj\Debug\KlasorIslemleri.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\KlasorIslemleri\KlasorIslemleri\obj\Debug\KlasorIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\KlasorIslemleri\KlasorIslemleri\obj\Debug\KlasorIslemleri.exe
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\KlasorIslemleri\KlasorIslemleri\obj\Debug\KlasorIslemleri.pdb

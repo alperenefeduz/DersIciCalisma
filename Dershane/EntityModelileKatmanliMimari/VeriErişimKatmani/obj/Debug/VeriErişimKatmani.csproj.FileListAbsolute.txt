@@ -1,0 +1,6 @@
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\EntityModelileKatmanliMimari\VeriErişimKatmani\bin\Debug\VeriErişimKatmani.dll
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\EntityModelileKatmanliMimari\VeriErişimKatmani\bin\Debug\VeriErişimKatmani.pdb
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\EntityModelileKatmanliMimari\VeriErişimKatmani\obj\Debug\VeriErişimKatmani.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\EntityModelileKatmanliMimari\VeriErişimKatmani\obj\Debug\VeriErişimKatmani.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\EntityModelileKatmanliMimari\VeriErişimKatmani\obj\Debug\VeriErişimKatmani.dll
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\EntityModelileKatmanliMimari\VeriErişimKatmani\obj\Debug\VeriErişimKatmani.pdb

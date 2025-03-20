@@ -1,0 +1,10 @@
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\EntityModelileKatmanliMimari\EntityModelileKatmanliMimari\bin\Debug\EntityModelileKatmanliMimari.exe.config
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\EntityModelileKatmanliMimari\EntityModelileKatmanliMimari\bin\Debug\EntityModelileKatmanliMimari.exe
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\EntityModelileKatmanliMimari\EntityModelileKatmanliMimari\bin\Debug\EntityModelileKatmanliMimari.pdb
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\EntityModelileKatmanliMimari\EntityModelileKatmanliMimari\obj\Debug\EntityModelileKatmanliMimari.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\EntityModelileKatmanliMimari\EntityModelileKatmanliMimari\obj\Debug\EntityModelileKatmanliMimari.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\EntityModelileKatmanliMimari\EntityModelileKatmanliMimari\obj\Debug\EntityModelileKatmanliMimari.exe
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\EntityModelileKatmanliMimari\EntityModelileKatmanliMimari\obj\Debug\EntityModelileKatmanliMimari.pdb
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\EntityModelileKatmanliMimari\EntityModelileKatmanliMimari\bin\Debug\VeriErişimKatmani.dll
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\EntityModelileKatmanliMimari\EntityModelileKatmanliMimari\bin\Debug\VeriErişimKatmani.pdb
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\EntityModelileKatmanliMimari\EntityModelileKatmanliMimari\obj\Debug\EntityModelileKatmanliMimari.csproj.CopyComplete

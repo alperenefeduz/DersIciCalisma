@@ -11,3 +11,15 @@ C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\WinForm\OgrenciKa
 C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\WinForm\OgrenciKayıtSistemi\OgrenciKayıtSistemi\obj\Debug\OgrenciK.1BB11B44.Up2Date
 C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\WinForm\OgrenciKayıtSistemi\OgrenciKayıtSistemi\obj\Debug\OgrenciKayıtSistemi.exe
 C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\WinForm\OgrenciKayıtSistemi\OgrenciKayıtSistemi\obj\Debug\OgrenciKayıtSistemi.pdb
+C:\Users\User\Documents\GitHub\DersIciCalisma\Odevler\WinForm\OgrenciKayıtSistemi\OgrenciKayıtSistemi\bin\Debug\OgrenciKayıtSistemi.exe.config
+C:\Users\User\Documents\GitHub\DersIciCalisma\Odevler\WinForm\OgrenciKayıtSistemi\OgrenciKayıtSistemi\bin\Debug\OgrenciKayıtSistemi.exe
+C:\Users\User\Documents\GitHub\DersIciCalisma\Odevler\WinForm\OgrenciKayıtSistemi\OgrenciKayıtSistemi\bin\Debug\OgrenciKayıtSistemi.pdb
+C:\Users\User\Documents\GitHub\DersIciCalisma\Odevler\WinForm\OgrenciKayıtSistemi\OgrenciKayıtSistemi\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\User\Documents\GitHub\DersIciCalisma\Odevler\WinForm\OgrenciKayıtSistemi\OgrenciKayıtSistemi\obj\Debug\OgrenciKayıtSistemi.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DersIciCalisma\Odevler\WinForm\OgrenciKayıtSistemi\OgrenciKayıtSistemi\obj\Debug\OgrenciKayıtSistemi.Main.resources
+C:\Users\User\Documents\GitHub\DersIciCalisma\Odevler\WinForm\OgrenciKayıtSistemi\OgrenciKayıtSistemi\obj\Debug\OgrenciKayıtSistemi.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\DersIciCalisma\Odevler\WinForm\OgrenciKayıtSistemi\OgrenciKayıtSistemi\obj\Debug\OgrenciKayıtSistemi.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\DersIciCalisma\Odevler\WinForm\OgrenciKayıtSistemi\OgrenciKayıtSistemi\obj\Debug\OgrenciKayıtSistemi.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DersIciCalisma\Odevler\WinForm\OgrenciKayıtSistemi\OgrenciKayıtSistemi\obj\Debug\OgrenciKayıtSistemi.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\DersIciCalisma\Odevler\WinForm\OgrenciKayıtSistemi\OgrenciKayıtSistemi\obj\Debug\OgrenciKayıtSistemi.exe
+C:\Users\User\Documents\GitHub\DersIciCalisma\Odevler\WinForm\OgrenciKayıtSistemi\OgrenciKayıtSistemi\obj\Debug\OgrenciKayıtSistemi.pdb

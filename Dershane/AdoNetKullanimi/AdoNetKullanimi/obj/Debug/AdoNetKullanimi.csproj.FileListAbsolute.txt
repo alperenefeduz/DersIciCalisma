@@ -1,0 +1,7 @@
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\AdoNetKullanimi\AdoNetKullanimi\bin\Debug\AdoNetKullanimi.exe.config
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\AdoNetKullanimi\AdoNetKullanimi\bin\Debug\AdoNetKullanimi.exe
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\AdoNetKullanimi\AdoNetKullanimi\bin\Debug\AdoNetKullanimi.pdb
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\AdoNetKullanimi\AdoNetKullanimi\obj\Debug\AdoNetKullanimi.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\AdoNetKullanimi\AdoNetKullanimi\obj\Debug\AdoNetKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\AdoNetKullanimi\AdoNetKullanimi\obj\Debug\AdoNetKullanimi.exe
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\AdoNetKullanimi\AdoNetKullanimi\obj\Debug\AdoNetKullanimi.pdb

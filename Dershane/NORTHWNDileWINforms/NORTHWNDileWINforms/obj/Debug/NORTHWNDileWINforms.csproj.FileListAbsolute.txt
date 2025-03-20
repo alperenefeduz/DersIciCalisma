@@ -1,0 +1,10 @@
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\NORTHWNDileWINforms\NORTHWNDileWINforms\bin\Debug\NORTHWNDileWINforms.exe.config
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\NORTHWNDileWINforms\NORTHWNDileWINforms\bin\Debug\NORTHWNDileWINforms.exe
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\NORTHWNDileWINforms\NORTHWNDileWINforms\bin\Debug\NORTHWNDileWINforms.pdb
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\NORTHWNDileWINforms\NORTHWNDileWINforms\obj\Debug\NORTHWNDileWINforms.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\NORTHWNDileWINforms\NORTHWNDileWINforms\obj\Debug\NORTHWNDileWINforms.KategoriIslemleri.resources
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\NORTHWNDileWINforms\NORTHWNDileWINforms\obj\Debug\NORTHWNDileWINforms.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\NORTHWNDileWINforms\NORTHWNDileWINforms\obj\Debug\NORTHWNDileWINforms.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\NORTHWNDileWINforms\NORTHWNDileWINforms\obj\Debug\NORTHWNDileWINforms.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\NORTHWNDileWINforms\NORTHWNDileWINforms\obj\Debug\NORTHWNDileWINforms.exe
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\NORTHWNDileWINforms\NORTHWNDileWINforms\obj\Debug\NORTHWNDileWINforms.pdb

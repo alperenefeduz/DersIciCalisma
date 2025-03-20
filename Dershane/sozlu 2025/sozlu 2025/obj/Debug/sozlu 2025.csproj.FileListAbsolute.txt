@@ -1,0 +1,10 @@
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\sozlu 2025\sozlu 2025\bin\Debug\sozlu 2025.exe.config
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\sozlu 2025\sozlu 2025\bin\Debug\sozlu 2025.exe
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\sozlu 2025\sozlu 2025\bin\Debug\sozlu 2025.pdb
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\sozlu 2025\sozlu 2025\obj\Debug\sozlu 2025.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\sozlu 2025\sozlu 2025\obj\Debug\sozlu_2025.kayit.resources
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\sozlu 2025\sozlu 2025\obj\Debug\sozlu_2025.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\sozlu 2025\sozlu 2025\obj\Debug\sozlu 2025.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\sozlu 2025\sozlu 2025\obj\Debug\sozlu 2025.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\sozlu 2025\sozlu 2025\obj\Debug\sozlu 2025.exe
+C:\Users\User\Documents\GitHub\DersIciCalisma\Dershane\sozlu 2025\sozlu 2025\obj\Debug\sozlu 2025.pdb
